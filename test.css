@@ -1,0 +1,31 @@
+Body{
+Font-family:"Lucida Grande";
+}
+Li{
+List-style:none;
+}
+H1{
+Color: #ff0000;
+Font-size:40px;
+Background:#9de8ea;
+}
+P{
+Color: #0000ff;
+Font-size:10px;
+}
+Img{
+Height:200px;
+Weight:500px;
+}
+H4{
+Background:#bbbb;
+}
+.aaa{
+Color:#0000ff;
+}
+.bbb{
+Color:#ff0000;
+}
+.ccc{
+Color:#bbbb;
+}
