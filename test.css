@@ -1,31 +1,96 @@
 Body{
-Font-family:"Lucida Grande";
+Margin:0px;
+Background-color:blue;
 }
-Li{
-List-style:none;
+
+
+Header{
+Font-family:"YuGothic";
+Background-color:#000;
+Color:white;
+Padding-top:5px;
+Margin-bottom:40px;
 }
-H1{
-Color: #ff0000;
-Font-size:40px;
-Background:#9de8ea;
-}
-P{
-Color: #0000ff;
+.header-title{
 Font-size:10px;
+Margin:0px;
 }
-Img{
-Height:200px;
-Weight:500px;
+.header-sub{
+Font-size:4px;
+Margin:0px;
+Padding-bottom:5px;
+}
+
+.chuukan{
+Color:white;
+Font-family:"Hiragino Kaku Gothic StdN";
+Font-size:20px;
+Margin:0px 0px 50px 20px;
+}
+
+
+.pom1{
+margin:0 auto;
+}
+.sec1{
+Margin:0px 300px;
+Padding-bottom:10px;
+Border:solid 0px #fff;
+border-radius:10px;
+Background-color:#fff;
+}
+.ar1{
+Font-family:"YuGothic";
+Padding-left:20px;
 }
 H4{
-Background:#bbbb;
+Padding-top:20px;
 }
-.aaa{
-Color:#0000ff;
+Ul{
+list-style:none;
 }
-.bbb{
-Color:#ff0000;
+Li{
+Font-size:15px;
+Color:#bbb;
+Padding-bottom:10px;
 }
-.ccc{
-Color:#bbbb;
+
+
+
+.sec2{
+Margin:70px 300px 150px;
+Padding:10px 5px;
+Border:solid 0px #fff;
+border-radius:10px;
+Background-color:#fff;
+Font-family:"arial unicode ms"
+}
+H2{
+Font-size:20px;
+Margin:20px 20px 0px;
+}
+P{
+Font-size:15px;
+Margin-left:10px;
+Color:silver;
+}
+
+
+
+.nav{
+Margin:70px;
+}
+
+.moji{
+Color:white;
+Font-family:"Hiragino Kaku Gothic StdN";
+}
+
+
+Footer{
+Background-color:black;
+Color:white;
+Font-family:"Hiragino Kaku Gothic StdN";
+Font-size:100px;
+Margin:0px;
 }
